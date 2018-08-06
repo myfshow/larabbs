@@ -1,6 +1,4 @@
 node_modules
 dist
 .DB_store
-.evn
-vendor
-readne.md
+*.wpy___jb_tmp___
